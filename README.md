@@ -18,15 +18,15 @@ A simple user management application built with React and Redux Toolkit.
 
 ## Installation
 
-1. Clone the repository:
+- Clone the repository:
    
-  ```git clone https://github.com/Chornei-Olha/user-management.git```
+  `git clone https://github.com/Chornei-Olha/user-management.git`
    
-2. Navigate to the project directory:
+- Navigate to the project directory:
 
-  ```cd user-management```
+  `cd user-management`
 
-3. Install the dependencies:
+- Install the dependencies:
 
 `npm install`
 
