@@ -28,13 +28,13 @@ A simple user management application built with React and Redux Toolkit.
 
 - Install the dependencies:
 
-`npm install`
+   `npm install`
 
 ## Usage
 
 To run the application, use the following command:
 
-`npm start`
+   `npm start`
 
 The app will be available at http://localhost:3000.
 
